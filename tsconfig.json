@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "ES2022",
+    "lib": ["DOM", "DOM.Iterable", "ES2018", "ES2019.Object"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-jsx",
+    "target": "es2017",
+    "moduleResolution": "node",
+    "types": ["vite/client", "node"],
+    "skipLibCheck": true,
+    "baseUrl": "src"
+  }
+}
